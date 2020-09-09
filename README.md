@@ -1,5 +1,6 @@
 # Parsing Raw Text Files
 
+### Output file -> HTML To JSON.json
 This program extracts data from semi structured html file. The html file consists of data from the Monash unit handbook.
 Each unit has the following data:
 * Unit code
@@ -20,6 +21,8 @@ The json library is then used to format and indent the json file appropriately.
 
 
 # Text PreProcessing 
+
+### Output file -> Count Vector.txt
 
 * Main motive of this task is to convert extracted data into formatted data. The textual information or data is converted into its numerical representation.
 * The dataset consists of information of units offered at Monash University.
